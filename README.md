@@ -1,4 +1,4 @@
-<img width="669" height="400" alt="image" src="https://github.com/user-attachments/assets/c190800a-9e64-46b1-bf45-160b4c02407b" /># Name:T.KAVINAJAI
+# Name:T.KAVINAJAI
 # Register NO: 212223100020
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
